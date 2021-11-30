@@ -1,0 +1,6 @@
+@import './styles/normalize.css';
+@import './styles/blocks/header.css';
+@import './styles/blocks/slide.css';
+@import './styles/blocks/about.css';
+@import './styles/blocks/form.css';
+@import './styles/blocks/footer.css';
